@@ -1,6 +1,6 @@
-## Gauge-BDD-and-PostMan-Example
+## BDD methodology with Maven-Selenium-Gauge and PostMan Test Example
 
-I'm using Gauge framework for BDD test methodology
+**I'm using Gauge framework with java Maven-Selenium project for BDD test methodology**
 
 *For run the Java-Maven-Gauge-Selenium project please follow the below steps*
 
